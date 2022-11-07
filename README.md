@@ -1,12 +1,15 @@
 ## Shark-Attack-Analysis
-##Description
+
+## Description
+
 -Shark attacks were reported over the past 100 years,this includes location of the attack, activity of the victim before the attack, victim infomations (name, gender, age), shark species, the level of the attack on the victims, date of the attack,  etc.
 ## Objectives
+
 1.To know the total number of shark attacks annually from 1960 to 2017
 2.To create a meaningfull insight with the dataset
 3.To know the countries, areas and locations report the most highest of the shark attacks
-##Question(s)
-Question(s)
+## Question(s)
+
 1.	Total number of countries involved in the shark attack
 2.	Total number of the species involved in the shark attack
 3.	Total number of case number that were recorded
