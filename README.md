@@ -27,6 +27,12 @@
 15.	Total number of species based on the level of their attack(fatal)
 16.	Count of area by the activity
 17.	Count of the activity by date
+## Conclusions
+At the end of the analysis, it shows that most of the location and the area of the attack was Florida and Most of the location in Florida were unknown followed by New smyrna Beach, Volusia County which was the second highest location were the attack took place. Majority of the victims name and sex were also unknown, then the second mostly attacked were children. 62%  of the species were unprovoked before the attack. 77% of the attack were not fatal and 23% were fatal and the most dangerous species are Zambesi shark.
+
+
+
+
 
 
 
